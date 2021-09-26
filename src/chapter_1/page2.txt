@@ -6,3 +6,5 @@ our second file
 
 now we have git enabled
 
+-- text edited
+
